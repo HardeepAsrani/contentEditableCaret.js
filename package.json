@@ -1,0 +1,31 @@
+{
+	"name": "contenteditablecaret",
+	"version": "1.0.0",
+	"description": "contenteditablecaret.js is a lightweight JavaScrpt plugin to allow you to move the caret (or cursor) position in a contentEditable element.",
+	"main": "src/contentEditableCaret.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/HardeepAsrani/contentEditableCaret.js.git"
+	},
+	"keywords": [
+		"contentEditable",
+		"caret",
+		"cursor"
+	],
+	"author": "Hardeep Asrani",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/HardeepAsrani/contentEditableCaret.js/issues"
+	},
+	"homepage": "https://github.com/HardeepAsrani/contentEditableCaret.js#readme",
+	"devDependencies": {
+		"babel-core": "^6.26.3",
+		"babel-eslint": "^8.2.5",
+		"babel-preset-env": "^1.7.0",
+		"eslint-config-netflix": "^2.0.0",
+		"grunt": "^1.0.3",
+		"grunt-babel": "^7.0.0",
+		"grunt-contrib-uglify": "^3.3.0",
+		"grunt-eslint": "^21.0.0"
+	}
+}
